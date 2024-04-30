@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(90deg, #F7F0AC 0%, #ACF7F0 50%, #F0ACF7 100%);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wrapper{
+    margin-top: 90px;
+}
+.feature-box h1{
+    color: rgb(110,108,149);
+    font-weight: bold;
+    
+}
+.feature-box h2{
+    color: black;
+    font-weight: bold;
+}
+.feature-box p{
+    font-family: sans-serif;
+    margin-top: 80px;
+}
+.feature-box button{
+    text-decoration: none;
+    border-radius: 5px;
+    outline: none;
+    background: #11aad8;
+    color: white;
+    border: none;
+}
+.feature-img{
+    width: 100%;
+    margin-top: -300px;
+    margin-left: 600px;   
+}
